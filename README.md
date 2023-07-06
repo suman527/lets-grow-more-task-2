@@ -3,7 +3,7 @@ This is a student enrollment form web application built using HTML, CSS, and Jav
 
 ## Deployed Link
 ```
-https://64a059991a33a64d08b26a7c--astounding-lolly-975ed3.netlify.app/
+https://student-enrollment-form-web.netlify.app/
 ```
 ## Features
 
